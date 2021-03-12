@@ -1,0 +1,52 @@
+[2021-03-10 21:30:43.571] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-03-10 21:30:43.571] [settingssync] [info] Auto Sync is enabled.
+[2021-03-10 21:30:43.571] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2021-03-10 21:30:45.681] [settingssync] [info] Auto Sync: Started
+[2021-03-10 21:30:45.681] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-03-10 21:30:45.690] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-03-10 21:30:45.692] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:30:45.692] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:31:14.392] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-03-10 21:31:14.406] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-03-10 21:31:14.407] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:31:14.408] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:31:25.803] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-03-10 21:31:25.813] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-03-10 21:31:25.814] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:31:25.814] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:32:47.785] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-03-10 21:32:47.797] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-03-10 21:32:47.798] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)
+[2021-03-10 21:32:47.798] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:185451)
+    at async manifest (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:183700)
+    at async s.createSyncTask (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:154918)
+    at async h.doSync (file:///var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:149515)

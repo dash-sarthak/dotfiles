@@ -1,0 +1,8 @@
+2021/03/06-19:07:17.540 aec6 Reusing MANIFEST /home/sarthak/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/06-19:07:17.541 aec6 Recovering log #28
+2021/03/06-19:07:17.541 aec6 Reusing old log /home/sarthak/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000028.log 
+2021/03/06-19:07:49.520 aee3 Level-0 table #32: started
+2021/03/06-19:07:49.521 aee3 Level-0 table #32: 0 bytes OK
+2021/03/06-19:07:49.614 aee3 Delete type=0 #28
+2021/03/06-19:07:49.615 aee3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/06-19:07:49.615 aee3 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

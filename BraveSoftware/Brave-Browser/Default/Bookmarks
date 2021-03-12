@@ -1,0 +1,578 @@
+{
+   "checksum": "651aa7992b765ac1b50db777e4a7c1a0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13256851780000000",
+            "guid": "d7afdcb2-b533-463d-89d9-78f7edff50cb",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13256851782000000",
+            "guid": "d48d5de7-79df-46c7-b9a2-3e2dccbb4241",
+            "id": "6",
+            "name": "Homepage",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13256851782000000",
+            "guid": "19eadb8b-efdc-4a1c-8247-3ee279c9d4b3",
+            "id": "7",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13256851783000000",
+            "guid": "7873d660-7774-4623-acd0-7eb8598be9cf",
+            "id": "8",
+            "name": "Wiki",
+            "type": "url",
+            "url": "http://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "date_added": "13256851784000000",
+            "guid": "3f3eded2-e18b-4857-bcad-7daf4af3c056",
+            "id": "9",
+            "name": "Manjaro Discover Software",
+            "type": "url",
+            "url": "https://discover.manjaro.org/"
+         }, {
+            "date_added": "13256851786000000",
+            "guid": "ad0e1503-1d83-492e-ad78-8182062344ab",
+            "id": "10",
+            "name": "Mozilla News",
+            "type": "url",
+            "url": "http://blog.mozilla.com/"
+         }, {
+            "date_added": "13256801601000000",
+            "guid": "3bf5c4c8-a3aa-4cba-adba-60c35c9d6861",
+            "id": "11",
+            "name": "Write Out Loud performances Event Tickets Bengaluru - BookMyShow",
+            "type": "url",
+            "url": "https://in.bookmyshow.com/events/write-out-loud/ET00303657"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13256851779000000",
+                  "guid": "df06cc1a-c8d8-4e42-9d5c-081200912fbd",
+                  "id": "14",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13256851779000000",
+                  "guid": "21f84c86-da17-4ae8-bf64-ecb9da9f8be2",
+                  "id": "15",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13256851779000000",
+                  "guid": "25a1a3fc-87a2-467c-89cb-d3983c43197d",
+                  "id": "16",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13256851779000000",
+                  "guid": "4021acb1-33b2-4528-829a-eb926bb75344",
+                  "id": "17",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13206181621000000",
+                  "guid": "b379c9cb-27b7-4e47-a079-fa1dee82277d",
+                  "id": "18",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-GB/products/firefox"
+               }, {
+                  "date_added": "13206181621000000",
+                  "guid": "8b67f2b6-03a7-452e-9969-a26a1ff1d71a",
+                  "id": "19",
+                  "name": "Customise Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-GB/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13206181621000000",
+                  "guid": "090b41fb-5128-40a3-9585-c031a26548e5",
+                  "id": "20",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-GB/contribute/"
+               }, {
+                  "date_added": "13206181621000000",
+                  "guid": "3332fec5-50db-4ea2-bccc-56d28788c6d3",
+                  "id": "21",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-GB/about/"
+               } ],
+               "date_added": "13257177658292963",
+               "date_modified": "0",
+               "guid": "f14856a6-9363-43a2-acc6-caab73701ffd",
+               "id": "13",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13256851781000000",
+                  "guid": "1dd95759-674a-44d7-b7c3-8fa9232d802a",
+                  "id": "23",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               }, {
+                  "date_added": "13248647903000000",
+                  "guid": "3ec3e49c-29a7-403f-bb38-a095cc224b26",
+                  "id": "24",
+                  "name": "Manjaro Homepage",
+                  "type": "url",
+                  "url": "https://manjaro.org/"
+               }, {
+                  "date_added": "13248647903000000",
+                  "guid": "83ae6940-15ca-4ed3-a595-d4da9db2d84b",
+                  "id": "25",
+                  "name": "Manjaro Forum",
+                  "type": "url",
+                  "url": "http://forum.manjaro.org/"
+               }, {
+                  "date_added": "13248647904000000",
+                  "guid": "61c7aae0-ecca-4add-a5ba-108823ddd44e",
+                  "id": "26",
+                  "name": "Manjaro Wiki",
+                  "type": "url",
+                  "url": "http://wiki.manjaro.org/index.php/Main_Page"
+               } ],
+               "date_added": "13257177658293128",
+               "date_modified": "0",
+               "guid": "13d64782-f249-49df-9343-8594f3e9d4f7",
+               "id": "22",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13256841156000000",
+                  "guid": "05caf7b0-d07d-4545-b3b3-68ace3babc34",
+                  "id": "28",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13256841156000000",
+                  "guid": "610db985-28e7-4844-9fbd-3a055baa690f",
+                  "id": "29",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13256841156000000",
+                  "guid": "592488ef-fabc-476e-9419-cc5a23b78232",
+                  "id": "30",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13256841156000000",
+                  "guid": "d42c035f-c103-4e63-9d71-9af0f00c1eaf",
+                  "id": "31",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13257177658293189",
+               "date_modified": "0",
+               "guid": "e642f11f-5fb3-426c-aaad-6cdae43fb892",
+               "id": "27",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13245525168000000",
+                  "guid": "550fc0a0-c682-4c9f-8317-8f498c86a14c",
+                  "id": "33",
+                  "name": "psutil documentation — psutil 5.7.3 documentation",
+                  "type": "url",
+                  "url": "https://psutil.readthedocs.io/en/latest/"
+               }, {
+                  "date_added": "13245589650000000",
+                  "guid": "cdc864be-afa9-48ff-9302-1d26214c0c15",
+                  "id": "34",
+                  "name": "GNOME / gnome-music · GitLab",
+                  "type": "url",
+                  "url": "https://gitlab.gnome.org/GNOME/gnome-music"
+               } ],
+               "date_added": "13257177658293260",
+               "date_modified": "0",
+               "guid": "f95822de-fa99-4395-b5c1-fb0686e6f8c9",
+               "id": "32",
+               "name": "Project Resources",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13233983461000000",
+                  "guid": "57cf8d6d-07b5-41cd-afc7-708155742329",
+                  "id": "36",
+                  "name": "Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals",
+                  "type": "url",
+                  "url": "https://www.savaari.com/"
+               }, {
+                  "date_added": "13233986610000000",
+                  "guid": "1906167f-89ca-4535-9586-d368a601aac9",
+                  "id": "37",
+                  "name": "COVID-19 - Government of Odisha",
+                  "type": "url",
+                  "url": "https://covid19.odisha.gov.in/"
+               }, {
+                  "date_added": "13234035858000000",
+                  "guid": "3b9ee431-f16d-4216-adfa-f6ca3d421c2c",
+                  "id": "38",
+                  "name": "AlgoExpert | Ace the Coding Interviews",
+                  "type": "url",
+                  "url": "https://www.algoexpert.io/product?r=ads&gclid=Cj0KCQjw-_j1BRDkARIsAJcfmTGGo0XAMlH00v83K8osWOSC2boR0496MqYb0PKro81E6EMi0PhpaakaAheFEALw_wcB"
+               }, {
+                  "date_added": "13234371859000000",
+                  "guid": "05121ac8-e39f-4040-94e3-0f339b492061",
+                  "id": "39",
+                  "name": "Buy Custom built Desktop & Workstation PCs for gaming, Artificial Intelligence, Deep Learning and Machine Learning | ANT PC",
+                  "type": "url",
+                  "url": "https://www.ant-pc.com/ai-and-deep-learning/ant-pc-pheidole-il400f"
+               }, {
+                  "date_added": "13234373050000000",
+                  "guid": "dbb95392-f781-4987-b4d2-3bf8e36e20cb",
+                  "id": "40",
+                  "name": "Buy Custom built Desktop & Workstation PCs for gaming, Artificial Intelligence, Deep Learning and Machine Learning | ANT PC",
+                  "type": "url",
+                  "url": "https://www.ant-pc.com/shopping_carts"
+               }, {
+                  "date_added": "13234374550000000",
+                  "guid": "1d866232-06e1-49a1-94f7-c0d399bcad93",
+                  "id": "41",
+                  "name": "Bag - Apple",
+                  "type": "url",
+                  "url": "https://www.apple.com/shop/bag"
+               }, {
+                  "date_added": "13237053343000000",
+                  "guid": "42cbf49d-1efa-4cbc-ad1d-a32fcb091f1c",
+                  "id": "42",
+                  "name": "My Drive - Google Drive",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/u/0/my-drive"
+               }, {
+                  "date_added": "13238152693000000",
+                  "guid": "d4ba0252-1532-4c91-9410-bac2b376b616",
+                  "id": "43",
+                  "name": "Building modern web apps with Spring Boot and Vaadin",
+                  "type": "url",
+                  "url": "https://vaadin.com/learn/tutorials/modern-web-apps-with-spring-boot-and-vaadin/introduction?utm_campaign=Java%20Web%20App%20Tutorial&campaignid=9720131714&utm_medium=ppc&hsa_mt=&hsa_cam=9720131714&hsa_kw=&hsa_acc=7040932438&utm_term=&gclid=CjwKCAjwi_b3BRAGEiwAemPNU9SbjmR3nlgptWSYgKRVmJ7hAvfCvOkuLK-1eiKUBf9v6McZq7mvMRoC1YAQAvD_BwE&hsa_tgt=&hsa_src=d&hsa_ver=3&adid=429699654670&hsa_grp=99001993345&hsa_ad=429699654670&adgroupid=99001993345&hsa_net=adwords&utm_source=adwords"
+               }, {
+                  "date_added": "13238211978000000",
+                  "guid": "812784f0-727e-4f15-925f-805f10eaf3a6",
+                  "id": "44",
+                  "name": "The color system - Material Design",
+                  "type": "url",
+                  "url": "https://material.io/design/color/the-color-system.html#tools-for-picking-colors"
+               }, {
+                  "date_added": "13238214910000000",
+                  "guid": "8c86c764-6112-4f27-9f32-6daf233b91d5",
+                  "id": "45",
+                  "name": "geesh - Vectr",
+                  "type": "url",
+                  "url": "https://vectr.com/geesh"
+               }, {
+                  "date_added": "13238237983000000",
+                  "guid": "4d4d7e63-7d6d-4e77-88c5-e725ba94a4eb",
+                  "id": "46",
+                  "name": "App Icon Generator",
+                  "type": "url",
+                  "url": "https://appicon.co/"
+               }, {
+                  "date_added": "13238258237000000",
+                  "guid": "07da3d61-62f8-4ebc-a932-adf8f263e804",
+                  "id": "47",
+                  "name": "Download free icons, music, stock photos, vectors",
+                  "type": "url",
+                  "url": "https://icons8.com/"
+               }, {
+                  "date_added": "13238398353000000",
+                  "guid": "fdfaaea9-51ca-442d-8f83-ef10574cfbda",
+                  "id": "48",
+                  "name": "Google Fonts",
+                  "type": "url",
+                  "url": "https://fonts.google.com/"
+               }, {
+                  "date_added": "13238401655000000",
+                  "guid": "1210973c-57c9-4f5c-b7ba-9b295e4d5544",
+                  "id": "49",
+                  "name": "Material Design Icons - Material Palette",
+                  "type": "url",
+                  "url": "https://www.materialpalette.com/icons"
+               }, {
+                  "date_added": "13238597982000000",
+                  "guid": "b5f89ed9-afed-4316-b6a0-7e42502be356",
+                  "id": "50",
+                  "name": "Cookbook - Flutter",
+                  "type": "url",
+                  "url": "https://flutter.dev/docs/cookbook"
+               }, {
+                  "date_added": "13239298947000000",
+                  "guid": "f29f1a80-453d-4403-878d-8e21e1d083ab",
+                  "id": "51",
+                  "name": "Dart packages",
+                  "type": "url",
+                  "url": "https://pub.dev/"
+               }, {
+                  "date_added": "13239431942000000",
+                  "guid": "c66c0fbe-2109-41af-96bc-504ef90582f0",
+                  "id": "52",
+                  "name": "Icons",
+                  "type": "url",
+                  "url": "https://www.flaticon.com/packs"
+               }, {
+                  "date_added": "13239708501000000",
+                  "guid": "1b93a24f-9e32-497a-95c6-a3ffa087f367",
+                  "id": "53",
+                  "name": "Vector Creator — Create engaging illustrations in-browser for free",
+                  "type": "url",
+                  "url": "https://icons8.com/vector-creator/illustration/5f155a1201d0360018310c91"
+               }, {
+                  "date_added": "13240000419000000",
+                  "guid": "17f04d0a-9425-4c33-987d-308c33bddd5c",
+                  "id": "54",
+                  "name": "Mobbin - Latest Mobile Design Patterns",
+                  "type": "url",
+                  "url": "https://mobbin.design/"
+               }, {
+                  "date_added": "13240051544000000",
+                  "guid": "e43e337a-d769-4652-bcb2-4dfd46875535",
+                  "id": "55",
+                  "name": "Welcome to New Horizon College of Engineering Online Results",
+                  "type": "url",
+                  "url": "http://eresults.newhorizonindia.edu/index.php"
+               }, {
+                  "date_added": "13240436332000000",
+                  "guid": "5a7b5db2-abb1-49ae-81a4-5fa079c25041",
+                  "id": "56",
+                  "name": "Remix Icon - Open source icon library",
+                  "type": "url",
+                  "url": "https://remixicon.com/"
+               }, {
+                  "date_added": "13241982068000000",
+                  "guid": "b9efffea-bd87-49ec-b578-e2e65cd42443",
+                  "id": "57",
+                  "name": "Stack Data Structure",
+                  "type": "url",
+                  "url": "https://www.programiz.com/dsa/stack"
+               }, {
+                  "date_added": "13211700640000000",
+                  "guid": "bf224048-0178-4642-80ba-44789ea3b793",
+                  "id": "58",
+                  "name": "Web Development Course Resources | The App Brewery",
+                  "type": "url",
+                  "url": "https://www.appbrewery.co/p/web-development-course-resources/"
+               }, {
+                  "date_added": "13242282611000000",
+                  "guid": "0cc7db15-779f-4cb4-b9ed-8c8dcd7594ce",
+                  "id": "59",
+                  "name": "Sentiment Analysis on lyrics of popular music artists // UnInhibited Zombie //",
+                  "type": "url",
+                  "url": "https://kvsingh.github.io/lyrics-sentiment-analysis.html"
+               }, {
+                  "date_added": "13242907816000000",
+                  "guid": "dbc8ab3d-7575-4ce0-b515-0d33bb7c590c",
+                  "id": "60",
+                  "name": "GADGETS WRAP GW-80582 Dark Slate Electroplating Top & Inside Skin for Lenovo Ideapad 310 15 inch Vinyl Laptop Decal 15 Price in India - Buy GADGETS WRAP GW-80582 Dark Slate Electroplating Top & Inside Skin for Lenovo Ideapad 310 15 inch Vinyl Laptop Decal 15 online at Flipkart.com",
+                  "type": "url",
+                  "url": "https://www.flipkart.com/gadgets-wrap-gw-80582-dark-slate-electroplating-top-inside-skin-lenovo-ideapad-310-15-inch-vinyl-laptop-decal/p/itmfcmyzqch96wgr?pid=LSDFCMXMZTJJY4PA&lid=LSTLSDFCMXMZTJJY4PAXY2XCT&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3ALSDFCMXNZHYTWUC7%3Bl%3ALSTLSDFCMXNZHYTWUC7HA3LNT%3Bpt%3App%3Buid%3A472176ac-768b-6be1-bacb-5194e83d1196%3B.LSDFCMXMZTJJY4PA.LSTLSDFCMXMZTJJY4PAXY2XCT&ppt=pp&ppn=pp&ssid=ydjkj6cnx0w3oe0w1598433655302&otracker=pp_reco_Similar%2BProducts_3_33.productCard.PMU_HORIZONTAL_Similar%2BProducts_LSDFCMXMZTJJY4PA.LSTLSDFCMXMZTJJY4PAXY2XCT_productRecommendation%2Fsimilar_2&otracker1=pp_reco_PINNED_productRecommendation%2Fsimilar_Similar%2BProducts_GRID_productCard_cc_3_NA_view-all&cid=LSDFCMXMZTJJY4PA.LSTLSDFCMXMZTJJY4PAXY2XCT"
+               }, {
+                  "date_added": "13245319819000000",
+                  "guid": "d4cb5541-ac66-42a4-875c-7755d904ef27",
+                  "id": "61",
+                  "name": "How to Make a Speech Emotion Recognizer Using Python And Scikit-learn - Python Code",
+                  "type": "url",
+                  "url": "https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn"
+               }, {
+                  "date_added": "13245347747000000",
+                  "guid": "ff65fa9d-5c93-4c1b-9ca5-ca00a4f17d7a",
+                  "id": "62",
+                  "name": "How to Make a Process Monitor in Python - Python Code",
+                  "type": "url",
+                  "url": "https://www.thepythoncode.com/article/make-process-monitor-python"
+               }, {
+                  "date_added": "13245413513000000",
+                  "guid": "148e5611-ba54-4ed3-a493-b57651aeeba9",
+                  "id": "63",
+                  "name": "Convert pyQt UI to python - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/18429452/convert-pyqt-ui-to-python"
+               }, {
+                  "date_added": "13246035942000000",
+                  "guid": "6114bd6f-533c-4230-b787-569b2f6ba701",
+                  "id": "64",
+                  "name": "6. Layout Containers — Python GTK+ 3 Tutorial 3.4 documentation",
+                  "type": "url",
+                  "url": "https://python-gtk-3-tutorial.readthedocs.io/en/latest/layout.html"
+               }, {
+                  "date_added": "13246039220000000",
+                  "guid": "9de5a053-3f2f-4e8b-8797-57619d9d867c",
+                  "id": "65",
+                  "name": "snippet generator",
+                  "type": "url",
+                  "url": "https://snippet-generator.app/?description=GTK+3+GUI&tabtrigger=&snippet=import+gi%0A%0Agi.require_version%28%22Gtk%22%2C+%223.0%22%29%0Afrom+gi.repository+import+Gtk%0A%0Aclass+MyWindow%28Gtk.Window%29%3A%0A++++def+__init__%28self%29%3A%0A++++++++%23+Gtk.Window.__init__%28self%2C+params%29%0A++++++++pass%0A%0Awin+%3D+MyWindow%28%29%0Awin.connect%28%22destroy%22%2C+Gtk.main_quit%29%0Awin.show_all%28%29%0AGtk.main%28%29&mode=vscode"
+               }, {
+                  "date_added": "13246395455000000",
+                  "guid": "77e0abae-ef08-45ad-b44a-6759f1f34b97",
+                  "id": "66",
+                  "name": "Embedding in GTK3 — Matplotlib 3.3.2 documentation",
+                  "type": "url",
+                  "url": "https://matplotlib.org/3.3.2/gallery/user_interfaces/embedding_in_gtk3_sgskip.html"
+               }, {
+                  "date_added": "13246476431000000",
+                  "guid": "d38d9a8b-8115-4622-b4dc-cc2a7a003bee",
+                  "id": "67",
+                  "name": "multithreading - Threading in Gtk python - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/11923008/threading-in-gtk-python"
+               }, {
+                  "date_added": "13246476439000000",
+                  "guid": "31893753-85fc-48a8-8655-d7d6b5010b1e",
+                  "id": "68",
+                  "name": "gtk - How to refresh matplotlib chart in GTK3 with Python and Glade - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/53746238/how-to-refresh-matplotlib-chart-in-gtk3-with-python-and-glade"
+               }, {
+                  "date_added": "13246727300000000",
+                  "guid": "e033c188-50dc-4401-806d-20c53b9b0034",
+                  "id": "69",
+                  "name": "Infosys InStep - Online Application Process",
+                  "type": "url",
+                  "url": "https://www.infosys.com/instep/apply-now.html"
+               }, {
+                  "date_added": "13246911341000000",
+                  "guid": "38c0054e-4716-4acc-bf2f-324344f24993",
+                  "id": "70",
+                  "name": "FREELANCE GIGS AT TOPCODER",
+                  "type": "url",
+                  "url": "https://www.topcoder.com/community/gigstart?gclid=Cj0KCQjw2or8BRCNARIsAC_ppyZ0tu5ss4tEfIyZcWZC1GVkAT9rK1RSHgH7M0XWJJhT_kakLEoOcPQaAhFfEALw_wcB"
+               }, {
+                  "date_added": "13247144646000000",
+                  "guid": "5d3e27d6-eb42-45e9-b64a-845b84406ee7",
+                  "id": "71",
+                  "name": "Java Cert",
+                  "type": "url",
+                  "url": "https://www.udemy.com/certificate/UC-cc1381f0-b8fa-4191-98ee-c0bba85b1f4a/"
+               }, {
+                  "date_added": "13247144790000000",
+                  "guid": "3989b798-75ad-4114-a369-13a87e73f5a4",
+                  "id": "72",
+                  "name": "Python Certificate",
+                  "type": "url",
+                  "url": "https://www.udemy.com/certificate/UC-69d1fe7f-bac1-4539-943b-d02572de0732/"
+               }, {
+                  "date_added": "13247144943000000",
+                  "guid": "2c6d5bdb-7145-4e05-bb39-e132fd234676",
+                  "id": "73",
+                  "name": "Flutter Certificate",
+                  "type": "url",
+                  "url": "https://www.udemy.com/certificate/UC-5df4642b-a3d3-4a3a-a531-4ea949ce2bbb/"
+               }, {
+                  "date_added": "13247987405000000",
+                  "guid": "51408ea3-c118-4383-8c79-b0b1db237343",
+                  "id": "74",
+                  "name": "Twenty One Pilots Mono Black Hoodie",
+                  "type": "url",
+                  "url": "https://www.merchbar.com/rock-alternative/twenty-one-pilots/twenty-one-pilots-mono-black-hoodie"
+               }, {
+                  "date_added": "13248242896000000",
+                  "guid": "a4716794-5b1a-48a2-ab68-a6c2d0ef6eff",
+                  "id": "75",
+                  "name": "How to Unlock Bootloader of Motorola Devices",
+                  "type": "url",
+                  "url": "https://android.tutorials.how/unlock-bootloader-motorola/"
+               }, {
+                  "date_added": "13248262074000000",
+                  "guid": "22f3dadf-5b9a-4fd1-8b54-f8ff0b08f0b7",
+                  "id": "76",
+                  "name": "Minimalist wallpaper dump (200+, at least 1080p) - wallpaper post - Imgur",
+                  "type": "url",
+                  "url": "https://imgur.com/gallery/XOygnM3"
+               }, {
+                  "date_added": "13249280093000000",
+                  "guid": "f0f01ba0-62af-464d-9436-4f625bfc17f4",
+                  "id": "77",
+                  "name": "Home Page - Select or create a notebook",
+                  "type": "url",
+                  "url": "http://localhost:8889/tree"
+               }, {
+                  "date_added": "13250149937000000",
+                  "guid": "46548afc-0f5f-4554-89e3-477227db300e",
+                  "id": "78",
+                  "name": "Text Classification Process",
+                  "type": "url",
+                  "url": "https://developers.google.com/machine-learning/guides/text-classification/step-3"
+               }, {
+                  "date_added": "13253286700000000",
+                  "guid": "d54dfc1e-c23a-412b-acac-0d703f1a856d",
+                  "id": "79",
+                  "name": "Typing practice",
+                  "type": "url",
+                  "url": "https://www.keybr.com/"
+               }, {
+                  "date_added": "13253427670000000",
+                  "guid": "293f9513-913e-4786-b459-583270b2127e",
+                  "id": "80",
+                  "name": "::: GATE-JAM :::",
+                  "type": "url",
+                  "url": "http://gate.iitkgp.ac.in/?id=gdl"
+               }, {
+                  "date_added": "13253712172000000",
+                  "guid": "c15f8802-edeb-4393-a164-2eaa2fa1edbd",
+                  "id": "81",
+                  "name": "How to Push an Existing Project to GitHub | DigitalOcean",
+                  "type": "url",
+                  "url": "https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github"
+               } ],
+               "date_added": "13257177658293305",
+               "date_modified": "0",
+               "guid": "3e99a203-6034-4069-9a90-14ec66c1da5d",
+               "id": "35",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13257177658292843",
+            "date_modified": "13257177658292843",
+            "guid": "67d46c6e-ae28-46c8-acfd-babfa50899c4",
+            "id": "12",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13257177412990115",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13257177412990117",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13257177412990118",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

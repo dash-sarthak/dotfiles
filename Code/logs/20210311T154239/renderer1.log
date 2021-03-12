@@ -1,0 +1,16 @@
+[2021-03-11 15:44:28.151] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25393)
+	at new t (/var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25342)
+	at new t (/var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at H (/home/sarthak/.vscode/extensions/ms-python.python-2021.2.636928669/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/sarthak/.vscode/extensions/ms-python.python-2021.2.636928669/out/client/extension.js:59:155129)
+	at /home/sarthak/.vscode/extensions/ms-python.python-2021.2.636928669/out/client/extension.js:9:140141
+[2021-03-11 15:44:42.078] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25393)
+	at new t (/var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25342)
+	at new t (/var/lib/snapd/snap/code/57/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at H (/home/sarthak/.vscode/extensions/ms-python.python-2021.2.636928669/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/sarthak/.vscode/extensions/ms-python.python-2021.2.636928669/out/client/extension.js:59:155129)
+	at /home/sarthak/.vscode/extensions/ms-python.python-2021.2.636928669/out/client/extension.js:9:140141

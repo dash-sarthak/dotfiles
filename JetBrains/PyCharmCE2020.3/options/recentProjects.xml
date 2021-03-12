@@ -1,0 +1,45 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pythonProject – main.py" projectWorkspaceId="1ouyYt4Q9ShazL1Lx6zGopvpAyj">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-203.7148.72" />
+              <option name="buildTimestamp" value="1611848546138" />
+              <frame x="260" y="53" width="1400" height="1000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1614150823223" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Flask Projects/Flask_Blog">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Flask_Blog – flaskblog.py" projectWorkspaceId="1pPq5sT6wsXFyAZBVGRtNBb8OeO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-203.7148.72" />
+              <option name="buildTimestamp" value="1611848524502" />
+              <frame x="961" y="540" width="951" height="532" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1615094960387" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/flaskProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="flaskProject – layout.html" opened="true" projectWorkspaceId="1pPqVdv6uZFlKObbkbVrTC37PPN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-203.7148.72" />
+              <option name="buildTimestamp" value="1611848524502" />
+              <frame x="961" y="22" width="951" height="532" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1615095097166" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

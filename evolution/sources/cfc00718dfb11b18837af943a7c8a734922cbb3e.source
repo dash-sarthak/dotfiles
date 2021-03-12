@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=sarthaksash99@gmail.com
+Enabled=true
+Parent=7a3563be894a1442341fc86d0208c8ae543fa166
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=sarthaksash99@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp

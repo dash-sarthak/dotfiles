@@ -1,0 +1,27 @@
+[Added Associations]
+text/plain=nvim.desktop;org.gnome.gedit.desktop;
+application/pdf=org.gnome.Evince.desktop;libreoffice-draw.desktop;
+x-scheme-handler/http=firefox.desktop;
+text/html=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+text/markdown=nvim.desktop;org.gnome.gedit.desktop;
+image/jpeg=org.gnome.gThumb.desktop;
+text/x-python=code_code.desktop;
+application/xml=nvim.desktop;
+image/png=org.gnome.gThumb.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+
+[Default Applications]
+x-scheme-handler/http=firefox.desktop
+text/html=firefox.desktop
+application/xhtml+xml=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+text/markdown=org.gnome.gedit.desktop
+image/jpeg=org.gnome.gThumb.desktop
+text/x-python=code_code.desktop
+x-scheme-handler/figma=figma-linux.desktop
+application/xml=nvim.desktop
+image/png=org.gnome.gThumb.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop
+text/plain=org.gnome.gedit.desktop

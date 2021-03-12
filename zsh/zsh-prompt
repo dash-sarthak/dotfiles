@@ -1,0 +1,16 @@
+# ~/.zshrc 
+# Enabling and setting git info var to be used in prompt config.
+autoload -Uz vcs_info
+zstyle ':vcs_info:*' enable git svn
+# This line obtains information from the vcs.
+zstyle ':vcs_info:git*' formats "%B%F{240}on%f %B%F{blue} %b%f%f "
+precmd() {
+    vcs_info
+}
+
+# Enable substitution in the prompt.
+setopt prompt_subst
+
+# Config for the prompt. PS1 synonym.
+PROMPT='%B%F{cyan}%2~%f%b ${vcs_info_msg_0_}%(?.%F{green}❯.%F{red}❯)%f ' 
+

@@ -1,0 +1,3 @@
+[Info  - 4:08:22 PM] Pylance language server 2021.3.1 (pyright 5d6db8d1) starting
+[Info  - 4:08:22 PM] Server root directory: /home/sarthak/.vscode/extensions/ms-python.vscode-pylance-2021.3.1/dist
+[Error - 4:08:22 PM] stubPath /home/sarthak/Desktop/Blackcoffer/typings is not a valid directory.
