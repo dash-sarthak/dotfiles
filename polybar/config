@@ -76,7 +76,7 @@ font-4 = Font Awesome 5 Brands:pixelsize=7;2
 
 modules-left = i3 xwindow
 modules-center = 
-modules-right = xbacklight pulseaudio network battery date
+modules-right =  pulseaudio network battery date xbacklight
 
 tray-position = right
 tray-padding = 1

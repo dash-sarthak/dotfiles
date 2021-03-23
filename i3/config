@@ -216,7 +216,7 @@ client.urgent		        $red     	           $red              $inactive-text-col
 # }
 
 
-bindsym $mod+b exec firefox
+bindsym $mod+b exec brave-browser
 
 exec nitrogen --restore
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
