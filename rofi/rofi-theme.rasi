@@ -1,0 +1,155 @@
+/*
+ *         ____     ____     ______   ____     _   __   ______
+ *        / __ \   / __ \   / ____/  / __ \   / | / /  / ____/ 
+ *       / /_/ /  / / / /  / /      / / / /  /  |/ /  / /_     
+ *      / _, _/  / /_/ /  / /___   / /_/ /  / /|  /  / __/     
+ *     /_/ |_|   \____/   \____/   \____/  /_/ |_/  /_/        
+ *    
+ */
+
+/* +------ FILE INFO --------------------------------------------------
+ *
+ *   File:          rofi-theme.rasi
+ *   Description:   Config file for the ROFI launcher
+ *   Author:        Sarthak
+ *
+ * ------------------------------------------------------------------+
+ */
+
+
+
+/* Launch config --------------------------------------------------- */
+
+configuration {
+  modi: "drun,window,run";
+  width: 30;
+  lines: 9;
+  font: "JetBrains Mono 13 ";
+  sidebar-mode: false;
+}
+
+
+
+/* Global declarations --------------------------------------------- */
+
+* {
+  black:      #000000;
+  red:        #eb6e67;
+  green:      #95ee8f;
+  yellow:     #f8c456;
+  blue:       #61afef;
+  mangenta:   #d886f3;
+  cyan:       #6cdcf7;
+  emphasis:   #24262d;
+  text:       #ffffff;
+  text-alt:   #ffffff;
+  fg:         #ffffff;
+  bg:         #14161b;
+  bg-trans:   rgba(20,22,27,0.98);
+
+  spacing: 0;
+  background-color: transparent;
+
+
+  font: "JetBrains Mono 12";
+  text-color: @text;
+}
+
+
+
+/* Window settings ----------------------------------------------- */
+
+window {
+  fullscreen: false;
+  background-color: @bg-trans;
+  border-color: @fg;
+  border: 1px;
+}
+
+
+
+/* Dialog-box settings -------------------------------------------- */
+
+mainbox {
+  padding: 15;
+  border: 0;
+}
+
+
+
+/* Searchbar settings --------------------------------------------- */
+
+inputbar {
+  margin: 0px 0px 20px 0px;
+  children: [prompt, textbox-prompt-colon, entry, case-indicator];
+}
+
+prompt {
+  text-color: @blue;
+}
+
+textbox-prompt-colon {
+  expand: false;
+  str: ":";
+  text-color: @text-alt;
+}
+
+entry {
+  margin: 0px 10px;
+}
+
+
+ 
+/* Results-list settings ------------------------------------------- */
+
+listview {
+  spacing: 5px;
+  dynamic: true;
+  scrollbar: false;
+}
+
+
+
+/* Search element settings ----------------------------------------- */
+
+element {
+  padding: 5px;
+  text-color: @text-alt;
+  highlight: bold #61afef;
+  border-radius: 3px;
+}
+
+element selected {
+  background-color: @emphasis;
+  text-color: @text;
+}
+
+element urgent, element selected urgent {
+  text-color: @red;
+}
+
+element active, element selected active {
+  text-color: @purple;
+}
+
+
+
+/* Message-box settings ------------------------------------------- */
+
+message {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: @emphasis;
+  border: 1px;
+  border-color: @cyan;
+}
+
+
+
+/* Button settings ------------------------------------------------- */
+
+button selected {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: @emphasis;
+}

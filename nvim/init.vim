@@ -1,19 +1,33 @@
-source $HOME/.config/nvim/vim-plug/plugins.vim
-"source $HOME/.config/nvim/themes/gruvbox.vim
-source $HOME/.config/nvim/themes/airline.vim
-source $HOME/.config/nvim/plug-config/indent-line.vim
+"        _   __   ______   ____     ______   ____     _   __   ______
+"       / | / /  / ____/  / __ \   / ____/  / __ \   / | / /  / ____/
+"      /  |/ /  / __/    / / / /  / /      / / / /  /  |/ /  / /_
+"     / /|  /  / /___   / /_/ /  / /___   / /_/ /  / /|  /  / __/
+"    /_/ |_/  /_____/   \____/   \____/   \____/  /_/ |_/  /_/
+"   
+
+" +------ FILE INFO -----------------------------------------------
+"   
+"   File:         init.vim
+"   Description:  Init file (vimrc) for NeoVim
+"   Author:       Sarthak
+"
+" ----------------------------------------------------------------+  
+
+
+
+" Plugins ---------------------------------------------------------
+
+source $HOME/.config/nvim/plugins.vim
 source $HOME/.config/nvim/plug-config/nerdtree.vim
-"source $HOME/.config/nvim/plug-config/coc.vim
+source $HOME/.config/nvim/plug-config/nerd-commenter.vim
+source $HOME/.config/nvim/mappings.vim
+source $HOME/.config/nvim/themes/onedark.vim
 
-colorscheme gruvbox
-hi Normal ctermbg=NONE guibg=NONE 
 
+
+" Miscellaneous --------------------------------------------------
+
+set scrolloff=7
+filetype plugin on
 let mapleader = ' '
-set relativenumber
-
-
-let g:airline#extensions#tabline#enabled=1
-let g:airline#extesnions#tabline#fnamemode=':t'
-nmap <leader>1 :bp<CR>
-nmap <leader>2 :bp<CR>
-nmap <C-w> :bd<CR>
+set number

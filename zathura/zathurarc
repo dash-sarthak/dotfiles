@@ -1,35 +1,35 @@
 set completion-group-bg         "#181818"
-set completion-group-fg         "#ebdbb2"
+set completion-group-fg         "#abb2bf"
 set completion-bg               "#181818"
-set completion-fg               "#ebdbb2"
+set completion-fg               "#abb2bf"
 set completion-highlight-bg     "#458588"
-set completion-highlight-fg     "#ebdbb2"
+set completion-highlight-fg     "#abb2bf"
 
-set notification-error-bg       "#3c3836"
-set notification-error-fg       "#ebdbb2"
-set notification-warning-bg     "#3c3836"
-set notification-warning-fg     "#ebdbb2"
-set notification-bg             "#3c3836"
-set notification-fg             "#ebdbb2"
+set notification-error-bg       "#14161b"
+set notification-error-fg       "#abb2bf"
+set notification-warning-bg     "#14161b"
+set notification-warning-fg     "#abb2bf"
+set notification-bg             "#14161b"
+set notification-fg             "#abb2bf"
 
 set index-bg                    "#1d2021"
-set index-fg                    "#ebdbb2"
+set index-fg                    "#abb2bf"
 set index-active-bg             "#181818"
-set index-active-fg             "#ebdbb2"
+set index-active-fg             "#abb2bf"
 
-set inputbar-bg                 "#3c3836"
-set inputbar-fg                 "#ebdbb2"
+set inputbar-bg                 "#14161b"
+set inputbar-fg                 "#8d909a"
 
-set statusbar-bg                "#181818"
-set statusbar-fg                "#ebdbb2"
+set statusbar-bg                "#14161b"
+set statusbar-fg                "#abb2bf"
 
 set highlight-color             "#458588"
 set highlight-active-color      "#458588"
 
-set default-bg                  "#1d2021"
-set default-fg                  "#001512"
-set recolor-lightcolor          "#181818"
-set recolor-darkcolor           "#ebdbb2"
+set default-bg                  "#14161b"
+set default-fg                  "#abb2bf"
+set recolor-lightcolor          "#14161b"
+set recolor-darkcolor           "#abb2bf"
 
 set statusbar-h-padding 0
 set statusbar-v-padding 0
@@ -44,3 +44,5 @@ map J zoom out
 map i recolor
 set recolor                     true
 map p print
+set font "JetBrains Mono 10"
+tabbed -c zathura -e

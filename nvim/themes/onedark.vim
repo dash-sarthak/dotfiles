@@ -6,8 +6,7 @@ if (has("autocmd") && !has("gui_running"))
     autocmd ColorScheme * call onedark#set_highlight("Normal", { "fg": s:white }) " `bg` will not be styled since there is no `bg` setting
   augroup END
 endif
-
-hi Comment cterm=italic
+hi Comment cterm=bold
 let g:onedark_hide_endofbuffer=1
 let g:onedark_terminal_italics=1
 let g:onedark_termcolors=256
