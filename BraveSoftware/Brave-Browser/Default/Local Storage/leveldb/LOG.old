@@ -1,6 +1,0 @@
-2021/03/06-17:33:25.935 3 Reusing MANIFEST /home/sarthak/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/03/06-17:33:25.936 3 Recovering log #52
-2021/03/06-17:33:25.937 3 Reusing old log /home/sarthak/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000052.log 
-2021/03/06-17:48:03.224 10 Level-0 table #56: started
-2021/03/06-17:48:03.276 10 Level-0 table #56: 13793 bytes OK
-2021/03/06-17:48:03.331 10 Delete type=0 #52

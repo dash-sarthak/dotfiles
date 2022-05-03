@@ -1,3 +1,0 @@
-[Info  - 9:30:46 PM] Pylance language server 2021.3.0 (pyright eb716c0a) starting
-[Info  - 9:30:46 PM] Server root directory: /home/sarthak/.vscode/extensions/ms-python.vscode-pylance-2021.3.0/dist
-[Error - 9:30:46 PM] stubPath /home/sarthak/Desktop/Flask Projects/Flask_Blog/typings is not a valid directory.

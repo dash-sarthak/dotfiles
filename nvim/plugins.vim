@@ -17,21 +17,21 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Auto pairs for '(' '[' '{'
     Plug 'jiangmiao/auto-pairs'
 
-    " Ayu-dark theme
-    Plug 'ayu-theme/ayu-vim'
-
-    " Indentation
-    "Plug 'Yggdroot/indentLine'
-
     " One-dark theme
     Plug 'joshdick/onedark.vim'
 
     " COC
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
-    " Gruvbox
-    Plug 'morhetz/gruvbox'
+    " Base 16 themes
+    Plug 'chriskempson/base16-vim'
 
+    " Material theme
+    Plug 'kaicataldo/material.vim', { 'branch': 'main' }
+
+    " Tokyo night
+    Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
+    
     " Colorizer
     Plug 'lilydjwg/colorizer'
     

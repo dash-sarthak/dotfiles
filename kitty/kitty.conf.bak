@@ -1,0 +1,9 @@
+linux_display_server X11
+cursor_shape beam
+font_family JetBrains Mono
+
+
+# BEGIN_KITTY_THEME
+# 3024 Night
+include current-theme.conf
+# END_KITTY_THEME
