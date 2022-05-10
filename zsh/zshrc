@@ -1,0 +1,29 @@
+# Use powerline
+USE_POWERLINE="true"
+
+# Prompt
+source ~/.config/zsh/zsh-prompt
+
+# zsh-configuration
+if [[ -e ~/.config/zsh/zsh-config ]]; then
+  source ~/.config/zsh/zsh-config
+fi
+
+# Plugins
+source ~/.config/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.config/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.config/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+
+# Autosuggest config
+ZSH_AUTOSUGGEST_BUFFER_MAX_SIZE=20
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'
+
+# Aliases
+alias zshrc="nvim ~/.zshrc"
+alias v="nvim"
+alias zupdate="source ~/.zshrc"
+
+# History config
+HISTFILE=~/.config/zsh/histfile
+HISTSIZE=10000
+SAVEHIST=100000
