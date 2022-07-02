@@ -1,7 +1,11 @@
 " **********************************************************
-"                       VIM KEYBINDINGS                     
+"                       VIM KEYBINDINGS
 " **********************************************************
 
+
+"  Setting leader key
+" ........................
+let mapleader = " "
 
 
 "  Moving blocks of text

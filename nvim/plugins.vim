@@ -10,7 +10,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " Better Syntax Support
     Plug 'sheerun/vim-polyglot'
-    
+
     " File Explorer
     Plug 'scrooloose/NERDTree'
 
@@ -31,14 +31,31 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " Tokyo night
     Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
-    
+
     " Colorizer
     Plug 'lilydjwg/colorizer'
-    
+
+    " Sorround
     Plug 'tpope/vim-surround'
 
     " NERDCommenter
     Plug 'preservim/nerdcommenter'
+
+    " Telescope
+    Plug 'nvim-lua/plenary.nvim'
+    Plug 'nvim-telescope/telescope.nvim'
+
+    "  DevIcons
+    Plug 'ryanoasis/vim-devicons'
+
+    " Catppuccin theme
+    Plug 'catppuccin/nvim', {'as': 'catppuccin'}
+    " Breeze theme
+    Plug 'fneu/breezy'
+
+    Plug 'itchyny/lightline.vim'
+
+    Plug 'mattn/emmet-vim'
 
 
 call plug#end()
