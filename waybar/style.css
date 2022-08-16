@@ -1,10 +1,10 @@
 * {
     font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 12px;
 }
 
 window#waybar {
-    background-color: #050511;
+    background-color: rgba(0, 0, 0, 0.8);
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
@@ -15,6 +15,17 @@ window#waybar.hidden {
 }
 
 
+#custom-logo,
+#custom-logout {
+    font-size: 18px;
+    background-color: #c96625;
+    padding: 0 10px;
+    margin: 4px;
+}
+#custom-logout {
+    font-size: 12px;
+    padding: 0 12px;
+}
 
 #workspaces button {
     padding: 0 5px;
@@ -29,7 +40,7 @@ window#waybar.hidden {
 }
 
 #workspaces button.focused {
-    color: #9ece6a;
+    color: #c96625;
 }
 
 #workspaces button.urgent {
@@ -57,7 +68,10 @@ window#waybar.hidden {
 #mpd {
     padding: 0 10px;
     color: #ffffff;
+    border-radius: 4px;
+    margin: 4px;
 }
+
 
 #window,
 #workspaces {

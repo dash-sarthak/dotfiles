@@ -1,3 +1,8 @@
+#    File: ~/.zshrc
+#    Description: ZSH config
+#    Author: Sarthak Dash
+
+
 # Use powerline
 USE_POWERLINE="true"
 
@@ -22,6 +27,23 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'
 alias zshrc="nvim ~/.zshrc"
 alias v="nvim"
 alias zupdate="source ~/.zshrc"
+alias md2html="~/scripts/md2html/md2html.sh"
+alias pl-dl="/home/sarthak/scripts/playlist-downloader.sh"
+alias ls='exa --icons --color=always --group-directories-first'
+alias ll='exa -alF --icons --color=always --group-directories-first'
+alias la='exa -a --icons --color=always --group-directories-first'
+alias l='exa -F --icons --color=always --group-directories-first'
+alias l.='exa -a | egrep "^\."'
+alias del='~/scripts/del.sh'
+
+# Path
+path+=('/home/sarthak/scripts')
+path+=('/home/sarthak/.local/bin')
+path+=('/home/sarthak/i3-apps/networkmanager-dmenu')
+path+=('/home/sarthak/config/sway/scripts')
+
+export PATH
+
 
 # History config
 HISTFILE=~/.config/zsh/histfile

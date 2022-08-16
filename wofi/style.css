@@ -1,7 +1,7 @@
 window {
 	margin: 2px;
-	border: 1x solid #ffffff;
-	background-color: #050511;
+	border: 1px solid #ffffff;
+	background-color: rgba(0, 0, 0, 0.9);
 }
 
 #input {
@@ -10,7 +10,7 @@ window {
 	margin: 10px;
 	border: none;
 	color: #ffffff;
-	background-color: #171820;
+	background-color: #141414;
 }
 
 #inner-box {
@@ -47,6 +47,6 @@ window {
 #entry:selected {
     margin: 0px 0px;
     border: none;
-    background-color: #33467C;
+    background-color: #a75b2a;
 }
 
